@@ -1,0 +1,29 @@
+[
+ {
+  "idPedido": 1,
+  "esParaLlevar": false,
+  "nombreCliente": "fdhfdhh",
+  "telefonoCliente": "54534646",
+  "gustoPizza": "Muzzarela",
+  "tamanoPizza": "Grande",
+  "agregarBebida": false,
+  "clienteHabitual": false,
+  "fechaDelPedido": "11/4/2019",
+  "horaDelPedido": "5:27:40 PM"
+ },
+ {
+  "idPedido": 2,
+  "esParaLlevar": true,
+  "direccionCliente": "ksksksksks",
+  "nombreCliente": "ksksksksksks",
+  "telefonoCliente": "99292929292",
+  "gustoPizza": "Muzzarela",
+  "tamanoPizza": "Grande",
+  "agregarBebida": false,
+  "clienteHabitual": false,
+  "fechaDelPedido": "11/4/2019",
+  "horaDelPedido": "5:32:32 PM",
+  "totalPedido": 670,
+  "descuento": 0
+ }
+]
